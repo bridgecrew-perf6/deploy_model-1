@@ -2,7 +2,7 @@
 
 ## Install 
 ```
-pip install https://github.com/leokster/deploy_model
+pip install git+https://github.com/leokster/deploy_model
 ```
 
 ## What is deploy_model for
